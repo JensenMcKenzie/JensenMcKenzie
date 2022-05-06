@@ -1,4 +1,8 @@
 # Jensen McKenzie's Projects
+## Big Projects
+- [Radix Sort](https://github.com/JensenMcKenzie/RadixSort)
+- [Minesweeper](https://github.com/JensenMcKenzie/minesweeper)
+- [Snake](https://github.com/JensenMcKenzie/snake)
 ## Skills
 - Java
 - Python

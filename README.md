@@ -1,7 +1,7 @@
 # Jensen McKenzie's Projects
 ## Info
-Most of these projects are school related, but each project focuses on a core aspect of each language.
-Whether that be inheritance, gui development, algorithm deployment, artificial intelligence, or machine
+Each of these projects focuses on a core aspect of a various language.
+Whether that be inheritance, GUI development, algorithm deployment, artificial intelligence, or machine
 learning. Each of these projects represents an important idea, all of which I am able to use to
 develop and distribute anything.
 ## Big Projects
@@ -10,12 +10,13 @@ develop and distribute anything.
 - [Minesweeper](https://github.com/JensenMcKenzie/minesweeper)
 - [Snake](https://github.com/JensenMcKenzie/snake)
 ## Skills
-- Java
+- JavaScript
 - Python
 - C++/C/C#
 - HTML/CSS
 - SQL
 - git
+- Java
 
 <!---
 JensenMcKenzie/JensenMcKenzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@ develop and distribute anything.
 ## LeetCode Questions
 - [LeetCode Problems](https://github.com/JensenMcKenzie/leetcode)
 ## Big Projects
-- [Live Messenger App (ios clone with added features)](https://github.com/JensenMcKenzie/messenger)
+- [Live Messenger App (ios clone with added features)](https://jensenmckenzie.github.io/messenger)
 - [Live Text Editor (Google Drive Clone)](https://github.com/JensenMcKenzie/LiveTextEditor)
 - [Portfolio Website](https://jensenmckenzie.github.io)
 - [Radix Sort Visualizer](https://github.com/JensenMcKenzie/RadixSort)

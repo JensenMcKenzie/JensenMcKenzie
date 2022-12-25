@@ -5,6 +5,7 @@ Whether that be inheritance, GUI development, algorithm deployment, artificial i
 
 ## Work Experience
 - Frontend Developer (Typescript/React) | September 2022 - Present
+-- Developed and deployed functional, beautiful and scalable deauthorized applications on the Algorand blockchain, fully integrated with complex features, like an NFT marketplace, and more!
 
 ## Skills
 - Proficient in JavaScript, HTML/CSS, and React

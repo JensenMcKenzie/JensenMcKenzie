@@ -8,10 +8,10 @@ Whether that be inheritance, GUI development, algorithm deployment, artificial i
   - Developed and deployed functional, beautiful and scalable deauthorized applications on the Algorand blockchain, fully integrated with complex features, like an NFT marketplace, and more!
 
 ## Skills
-- Proficient in JavaScript, HTML/CSS, and React
-- Experienced in using MongoDB and Git/GitHub
-- Strong understanding of computer science principles and data structures
-- Skilled in Python, C++/C/C#, and Java
+- JavaScript, HTML/CSS, and React
+- MongoDB, Firebase and Git/GitHub
+- Advanced understanding of computer science principles and data structures
+- Python, C++/C/C#, and Java
 
 ## Education
 - Bachelor's Degree in Computer Science and Mathematics (in progress expected in June 2024) | University of California San Diego

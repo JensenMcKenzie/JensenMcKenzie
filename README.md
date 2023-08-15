@@ -10,15 +10,15 @@ Whether that be inheritance, GUI development, algorithm deployment, artificial i
     
 - **Jupiter Station Inc**: Frontend Developer | September 2022 - Present
   - Designed and implemented new features for **websites** and **applications** in the **blockchain** using **advanced cryptography**. Developed an **advanced electric vehicle charging network**, used by **thousands of customers**.
+  - 
+## Education
+- Bachelor's Degree in Computer Science and Mathematics (graduation in June 2024) | University of California San Diego
 
 ## Skills
 - JavaScript, HTML/CSS, and React
 - MongoDB, Firebase and Git/GitHub
 - Advanced understanding of computer science principles and data structures
 - Python, C++/C/C#, and Java
-
-## Education
-- Bachelor's Degree in Computer Science and Mathematics (graduation in June 2024) | University of California San Diego
 
 ### LeetCode Questions
 - [LeetCode Problems](https://github.com/JensenMcKenzie/leetcode)
